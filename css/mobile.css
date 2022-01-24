@@ -3,3 +3,9 @@
     grid-template-columns: 1fr 1fr 1fr;
     margin: 20px;
 }
+
+.footer .footer__social > .social > .follow { 
+    display: flex;
+    color: var(--off-white);
+    padding: 4px;
+}

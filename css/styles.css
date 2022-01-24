@@ -131,6 +131,13 @@
             display: flex;
             justify-content: space-evenly;
         }
+        .footer .footer__social > .social {
+            display: flex;
+            align-items: center;
+        }
+        .footer .footer__social > .social > .follow { 
+            display: none;
+        }
         .footer .footer__social img{
             display: flex;
             width: 40px;
